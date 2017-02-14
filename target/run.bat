@@ -1,0 +1,1 @@
+java -jar "C:\test\JiraStatusIssues-1.0.jar" "https://jira.at-consulting.ru" "vkryukov" "Deboro1215" "https://script.google.com/macros/s/AKfycbzNS78Vk1v2q9lkjHP5w7lo07RT-0lCZePw6WGOra7GXoENrXo/exec" "project=CMRS and fixVersion = \"reliz - 30.11.2015 - 2.2.2.0\"" "Task 30.11.2015"
